@@ -9,7 +9,7 @@ Streamlit dashboard for exploration.
 
 ## 📌 Project Overview
 
-We:
+I:
 - Clean and align sentiment and trade data at the daily level
 - Engineer key metrics:
   - Daily PnL
@@ -76,10 +76,14 @@ trader-sentiment-project/
 pip install -r requirements.txt
   ```
 3. Run the Jupyter notebook:
-   ``` jupyter notebook Data_intern_project.ipynb ```
+   ```
+    jupyter notebook Data_intern_project.ipynb
+   ```
 
-4. Run the Streamlit dashboard:
-   ``` streamlit run app.py ```
+5. Run the Streamlit dashboard:
+   ```
+    streamlit run app.py
+   ```
 
 
 Created  By Samruddhi Amol Shah
